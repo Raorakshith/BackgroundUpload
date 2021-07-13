@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackgroundUpload</string>
+    <string name="upload_img_btn">Upload Image</string>
+    <string name="progress">Uploading...</string>
+    <string name="upload_success">Upload Successful</string>
+    <string name="upload_failure">Upload failed</string>
+</resources>
